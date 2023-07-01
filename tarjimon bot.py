@@ -4,7 +4,7 @@ import googletrans
 
 translator = googletrans.Translator()
 
-config = "5904607271:AAHpGjgqnwtTxbDy-Bq7pzNI-Br8nS11tlE"
+config = "5663157501:AAELIUYnoDMrUdSUdsJomnFuHI_xN883Dww"
 
 bot = telebot.TeleBot(config)
 
